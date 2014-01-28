@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ReadingCallLogs</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Call Logs</string>
+    <string name="add">Insert Call Log</string>
+
+</resources>
